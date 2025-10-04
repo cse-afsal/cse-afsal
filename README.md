@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Afsal</h1>
