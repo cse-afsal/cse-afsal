@@ -51,7 +51,7 @@
 
 ### 🏆 Achievements & Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cse-afsal&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
