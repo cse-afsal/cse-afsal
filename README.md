@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=cse-afsal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
