@@ -1,6 +1,6 @@
 
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm AfsaL</h1>
+<h1 align="center">Hi 👋, I'm AfsAL</h1>
 <h3 align="center">🚀 Aspiring software Engineer | Python Enthusiast</h3>
 
 ---
