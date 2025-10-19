@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Aspiring software Engineer | Python Enthusiast</h3>
 
 ---
-
+  
 <!-- Profile Views & Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cse-afsal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
