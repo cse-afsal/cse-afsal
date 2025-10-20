@@ -48,6 +48,11 @@
 </p>
 
 ---
+### 🏅 Fun Badges
+![Code Lover](https://img.shields.io/badge/💻-Code%20Lover-blue)
+![Coffee Addict](https://img.shields.io/badge/☕-Coffee%20Addict-brown)
+![Open Source](https://img.shields.io/badge/Open%20Source❤️-Contributor-green)
+
 
 ### 🏆 Achievements & Badges
 <p align="center">
