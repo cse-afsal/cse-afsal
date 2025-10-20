@@ -53,6 +53,11 @@
 ![Coffee Addict](https://img.shields.io/badge/☕-Coffee%20Addict-brown)
 ![Open Source](https://img.shields.io/badge/Open%20Source❤️-Contributor-green)
 
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F700&center=true&vCenter=true&width=700&lines=Hey+There!+👋+I'm+YOUR_NAME;Full+Stack+Developer;Python+%7C+Django+%7C+React;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+
+---
 
 ### 🏆 Achievements & Badges
 <p align="center">
