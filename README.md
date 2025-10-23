@@ -13,7 +13,7 @@
   <a href="https://github.com/cse-afsal?tab=followers"><img src="https://img.shields.io/github/followers/cse-afsal?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
----
+---  
 
 ### 🌐 Connect With Me
 <p align="left">
