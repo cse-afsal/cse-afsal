@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F700&center=true&vCenter=true&width=700&lines=Hey+There!+👋+I'm+AFSAL+S;Aspiring+Full+Stack+Developer;Python+%7C+C+++%7C+JavaScript;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 
-<h3 align="center">🚀 Aspiring software Engineer | Python Enthusiast</h3>
+<h3 align="center">🚀 Aspiring software Engineer | Python Enthusiast</h3>  
 
 ---
   
