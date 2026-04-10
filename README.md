@@ -69,7 +69,7 @@
 
 ### 🏆 Achievements & Badges
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username)
+![Trophies](https://github-profile-trophy.vercel.app/?username=cse-afsal)
                     
 ---
 
