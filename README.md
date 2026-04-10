@@ -68,11 +68,8 @@
 ---
 
 ### 🏆 Achievements & Badges
-![Stars](https://img.shields.io/github/stars/username/repo?style=social)
-![Forks](https://img.shields.io/github/forks/username/repo?style=social)
-![Issues](https://img.shields.io/github/issues/username/repo)
-![Pull Requests](https://img.shields.io/github/issues-pr/username/repo)
-![License](https://img.shields.io/github/license/username/repo)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=your-username)
                     
 ---
 
