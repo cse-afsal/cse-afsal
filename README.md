@@ -68,9 +68,11 @@
 ---
 
 ### 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cse-afsal&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
+![Stars](https://img.shields.io/github/stars/username/repo?style=social)
+![Forks](https://img.shields.io/github/forks/username/repo?style=social)
+![Issues](https://img.shields.io/github/issues/username/repo)
+![Pull Requests](https://img.shields.io/github/issues-pr/username/repo)
+![License](https://img.shields.io/github/license/username/repo)
                     
 ---
 
