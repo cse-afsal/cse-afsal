@@ -49,11 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse-afsal&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-### 🏅 Fun Badges
-![Code Lover](https://img.shields.io/badge/💻-Code%20Lover-blue)
-![Coffee Addict](https://img.shields.io/badge/☕-Coffee%20Addict-brown)
-![Open Source](https://img.shields.io/badge/Open%20Source❤️-Contributor-green)
 
 ---
 
