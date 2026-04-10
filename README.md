@@ -51,6 +51,18 @@
 
 
 ---
+# My Project 🚀
+
+![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name)
+![GitHub stars](https://img.shields.io/github/stars/username/repo-name?style=social)
+![GitHub forks](https://img.shields.io/github/forks/username/repo-name?style=social)
+![GitHub issues](https://img.shields.io/github/issues/username/repo-name)
+![GitHub license](https://img.shields.io/github/license/username/repo-name)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 
 ---
