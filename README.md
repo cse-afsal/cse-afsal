@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/stars/cse-afsal?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
 </p>
 
----
+----
 
 # 💫 About Me
 
