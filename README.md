@@ -129,13 +129,7 @@
 
 ---
 
-# ✨ Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 <h4 align="center">🚀 Keep Learning • Keep Building • Keep Growing 🚀</h4>
