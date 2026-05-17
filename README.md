@@ -26,7 +26,7 @@
 🐍 Learning Python, Django, React & DSA  
 🚀 Building Real-World Projects  
 📚 Currently improving problem-solving skills on LeetCode  
-🎯 Goal: Become a Top Software Engineer  
+🎯 Goal: Become a Top Software Engineer.  
 
 ---
 
