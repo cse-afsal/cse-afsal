@@ -124,7 +124,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cse-afsal&theme=green"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cse-afsal&theme=tokyo-night"/>
 </p>
 
 ---
