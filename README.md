@@ -89,15 +89,7 @@
 
 ---
 
-## 🛒 Flipkart Clone
-> Full-stack e-commerce project with:
-- Authentication
-- Product Management
-- Cart & Checkout
-- Payment Integration
-- Admin Dashboard
 
----
 
 # 📊 GitHub Stats
 
