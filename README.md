@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;Python+%7C+Django+%7C+React;AI+%26+Web+Development+Enthusiast;Building+Projects+and+Learning+Everyday;Future+Software+Engineer+🚀" />
 </p>
-
 ---
 
 <!-- ======================= PROFILE INFO ======================= -->
