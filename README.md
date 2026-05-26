@@ -108,7 +108,8 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cse-afsal&theme=tokyonight&no-frame=true&row=1&column=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cse-afsal&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  
 </p>
 
 ---
