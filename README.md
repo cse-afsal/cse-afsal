@@ -21,7 +21,7 @@
 💻 Passionate about Full Stack Web Development & AI  
 🐍 Learning Python, Django, React & DSA  
 🚀 Building Real-World Projects  
-📚 Currently improving problem-solving skills on LeetCode  
+📚 Currently improving problem-solving skills on LeetCode .
 
 
 ---
