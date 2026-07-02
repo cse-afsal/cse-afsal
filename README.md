@@ -18,7 +18,7 @@
 
 # 💫 About Me
 🎓 Second Year CSE Student  
-💻 Passionate about Full Stack Web Development & AI  
+💻 Passionate about Full Stack Web Development & AI   
 🐍 Learning Python, Django, React & DSA  
 🚀 Building Real-World Projects  
 📚 Currently improving problem-solving skills on LeetCode .
