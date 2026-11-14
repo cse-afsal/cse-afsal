@@ -118,20 +118,44 @@ An AI-powered interview preparation platform designed to help candidates improve
 
 <!-- ===================== GITHUB STATS ===================== -->
 
+<!-- ================= GITHUB STATISTICS ================= -->
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cse-afsal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse-afsal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
 <br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=cse-afsal&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=cse-afsal&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
+---
+
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="./profile/contribution-snake.svg" width="100%" />
+</picture>
+
+<br/>
+
+<a href="https://github.com/cse-afsal?tab=overview#contribution-activity">
+  View My GitHub Contribution Calendar →
+</a>
+
+</div>
+
+---
 ---
 
 ## 📈 Contribution Activity
