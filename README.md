@@ -77,45 +77,6 @@ An AI-powered mock interview website that helps candidates practice and improve.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cse-afsal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&cache_seconds=21600" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=cse-afsal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse-afsal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=21600" alt="Top languages" />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cse-afsal&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution graph" />
-</p>
-
----
-
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:cse.afxal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/cse-afsal">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>Keep learning · Keep building · Keep growing</i></p>
-
-
 ## GitHub Activity
 
 <div align="center">
@@ -149,4 +110,27 @@ An AI-powered mock interview website that helps candidates practice and improve.
 </div>
 
 <br/>
+
+---
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:cse.afxal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/cse-afsal">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Keep learning · Keep building · Keep growing</i></p>
+
+
 
