@@ -1,9 +1,9 @@
 <!-- ======================= HEADER ======================= -->
 <h1 align="center">Hi, I'm Afsal S 👋</h1>
-<h3 align="center">Aspiring Software Engineer · AI Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer · AI & Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&repeat=true&width=700&lines=Aspiring+Full+Stack+Developer;Python+%7C+Django+%7C+React;AI+%26+Web+Development+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&repeat=true&width=700&lines=Aspiring+Full+Stack+Developer;Python+%7C+Django+%7C+React;AI+%26+Deep+Learning+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a second-year Computer Science student focused on full stack web development and AI. I enjoy turning ideas into real, working products and sharpening my fundamentals along the way.
+I'm a second-year Computer Science student focused on full stack web development and AI. I enjoy turning ideas into real, working products, and I care about both the code behind an app and how it looks and feels to use.
 
 - 🎓 Second Year CSE Student
 - 💻 Full Stack Web Development & AI
-- 🐍 Learning Python, Django, React & Data Structures and Algorithms
-- 🧩 Practicing problem solving on LeetCode
-- 🚀 Building real-world projects
+- 🧠 Exploring Deep Learning and Data Science
+- 🎨 Working at the intersection of implementation and visual branding
+- 🚀 Building real-world projects and collaborating with others
 
 ---
 
@@ -31,7 +31,7 @@ I'm a second-year Computer Science student focused on full stack web development
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,java&theme=dark" alt="Languages" />
 </p>
 
 **Frameworks & Libraries**
@@ -53,14 +53,14 @@ I'm a second-year Computer Science student focused on full stack web development
 | Area | What I'm working on |
 | :-- | :-- |
 | **Backend** | Building APIs and apps with Django |
-| **AI** | Developing AI-powered web applications |
-| **Problem Solving** | Daily DSA practice |
-| **Frontend** | Improving UI/UX skills |
+| **AI / ML** | Developing AI-powered web applications and learning deep learning |
+| **Problem Solving** | Daily DSA practice on LeetCode |
+| **Frontend** | Improving UI/UX and visual design skills |
 | **DevOps** | Deployment and cloud basics |
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Project
 
 ### 🤖 AI Mock Interview Platform
 
@@ -72,40 +72,44 @@ An AI-powered mock interview website that helps candidates practice and improve.
 - 🧾 Built-in resume builder
 - 📈 Performance analytics
 
-<!-- Add your repo link below, e.g. [View Repository](https://github.com/cse-afsal/your-repo-name) -->
-<!-- [🔗 View Repository](https://github.com/cse-afsal/REPO-NAME) -->
+<p align="left">
+  <a href="https://github.com/cse-afsal/REPO-NAME">
+    <img src="https://img.shields.io/badge/View%20Repository-171515?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+  </a>
+</p>
 
 ---
 
-## GitHub Activity
+## 📂 More Projects
+
+| Project | Description |
+| :-- | :-- |
+| **CampusHub** | A campus marketplace and freelance services platform, built with a teammate |
+| **LendIt** | An AI-powered hyperlocal rental and local services marketplace |
+| **Day One** | A personal study tracker for subjects, marks, streaks, and study plans |
+| **My World** | A playable 3D portfolio set in a realistic neighbourhood (in progress) |
+| **Blood Bank** | A Java OOP system for managing donors, blood requests, and inventory |
+
+---
+
+## 🏆 Highlights
+
+- 📚 Completed coursework in Data Structures, DBMS, and OOP in Java
+- 🧩 Solving problems on LeetCode and HackerRank
+- 🤝 Looking for collaborators on AI/ML and web projects
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/stats-dark.svg?v=3" />
-  <img alt="GitHub stats" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/stats.svg?v=3" height="170" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/top-langs-dark.svg?v=3" />
-  <img alt="Top languages" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/top-langs.svg?v=3" height="170" />
-</picture>
+<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cse-afsal&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse-afsal&layout=compact&theme=tokyonight&hide_border=true" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/streak-dark.svg?v=3" />
-  <img alt="GitHub streak" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/streak.svg?v=3" />
-</picture>
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=cse-afsal&theme=tokyonight&hide_border=true" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph.svg?v=3" />
-  <img alt="Contribution activity graph" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph.svg?v=3" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake.svg?v=3" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake.svg?v=3" />
-</picture>
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=cse-afsal&theme=onedark&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -113,11 +117,10 @@ An AI-powered mock interview website that helps candidates practice and improve.
 
 ---
 
-
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:cse.afxal@gmail.com">
+  <a href="mailto:cse.afsal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
@@ -131,6 +134,3 @@ An AI-powered mock interview website that helps candidates practice and improve.
 ---
 
 <p align="center"><i>Keep learning · Keep building · Keep growing</i></p>
-
-
-
