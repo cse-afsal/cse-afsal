@@ -100,16 +100,16 @@ An AI-powered mock interview website that helps candidates practice and improve.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cse-afsal&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse-afsal&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cse-afsal&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse-afsal&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=cse-afsal&theme=tokyonight&hide_border=true" />
 
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=cse-afsal&theme=onedark&no-frame=true&row=1&column=6" />
+<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cse-afsal&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
