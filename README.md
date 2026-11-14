@@ -1,136 +1,177 @@
-<!-- ======================= HEADER ======================= -->
-<h1 align="center">Hi, I'm Afsal S 👋</h1>
-<h3 align="center">Aspiring Software Engineer · AI & Web Enthusiast</h3>
+<!-- ===================== HEADER ===================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&repeat=true&width=700&lines=Aspiring+Full+Stack+Developer;Python+%7C+Django+%7C+React;AI+%26+Deep+Learning+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing animation" />
+<div align="center">
+
+# Hi there, I'm Afsal S 👋
+
+### Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Real+Products;Full+Stack+Web+Developer;Exploring+Artificial+Intelligence;Learning+DSA+%26+Problem+Solving;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cse-afsal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/cse-afsal?label=Followers&style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-2ea44f?style=flat-square" alt="Open to opportunities" />
+<p>
+  <a href="https://github.com/cse-afsal">
+    <img src="https://komarev.com/ghpvc/?username=cse-afsal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/cse-afsal?tab=followers">
+    <img src="https://img.shields.io/github/followers/cse-afsal?label=Followers&style=for-the-badge&color=236ad3" alt="Followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20To-Collaborations-2ea44f?style=for-the-badge" alt="Open to collaborations"/>
 </p>
+
+</div>
 
 ---
+
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
-I'm a second-year Computer Science student focused on full stack web development and AI. I enjoy turning ideas into real, working products, and I care about both the code behind an app and how it looks and feels to use.
+I'm a **second-year Computer Science Engineering student** passionate about building software, exploring AI, and solving real-world problems through technology.
 
-- 🎓 Second Year CSE Student
-- 💻 Full Stack Web Development & AI
-- 🧠 Exploring Deep Learning and Data Science
-- 🎨 Working at the intersection of implementation and visual branding
-- 🚀 Building real-world projects and collaborating with others
+I enjoy experimenting with new technologies, developing projects, and continuously improving my engineering fundamentals.
+
+- 🎓 Second-year Computer Science Engineering student.
+- 💻 Interested in Full Stack Development and Software Engineering.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🐍 Learning Python, Django, React, and Backend Development.
+- 🧠 Practicing Data Structures & Algorithms.
+- 🚀 Building projects and turning ideas into products.
+- 🤝 Interested in open-source contributions and collaborations.
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,java&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
 </p>
 
-**Frameworks & Libraries**
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,react,nodejs,tailwind&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
 </p>
 
-**Tools & Platforms**
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-| Area | What I'm working on |
-| :-- | :-- |
-| **Backend** | Building APIs and apps with Django |
-| **AI / ML** | Developing AI-powered web applications and learning deep learning |
-| **Problem Solving** | Daily DSA practice on LeetCode |
-| **Frontend** | Improving UI/UX and visual design skills |
-| **DevOps** | Deployment and cloud basics |
+## 🎯 What I'm Currently Working On
+
+| Focus Area | Current Goals |
+|:---|:---|
+| 💻 Full Stack Development | Building applications with React, Node.js and Django |
+| 🤖 Artificial Intelligence | Exploring ML and AI-powered applications |
+| 🧠 Data Structures & Algorithms | Improving problem-solving skills through LeetCode |
+| ⚙️ Backend Engineering | Learning API development and database management |
+| 🎨 UI/UX Design | Creating clean and user-friendly interfaces |
+| ☁️ Deployment | Exploring cloud technologies and deployment |
 
 ---
+
+<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Featured Project
 
 ### 🤖 AI Mock Interview Platform
 
-An AI-powered mock interview website that helps candidates practice and improve.
+An AI-powered interview preparation platform designed to help candidates improve their interview skills.
 
-- 📄 Resume-based interview questions
-- 💬 Real-time AI feedback
-- 🎥 Video interview support
-- 🧾 Built-in resume builder
-- 📈 Performance analytics
+**Key Features:**
+- 📄 Resume-based interview question generation.
+- 💬 AI-powered feedback and evaluation.
+- 🎥 Video interview support.
+- 📝 Resume builder.
+- 📊 Interview performance analytics.
 
-<p align="left">
-  <a href="https://github.com/cse-afsal/REPO-NAME">
-    <img src="https://img.shields.io/badge/View%20Repository-171515?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-  </a>
+---
+
+## 💡 Areas of Interest
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-239120?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logo=github" />
 </p>
 
 ---
 
-## 📂 More Projects
+<!-- ===================== GITHUB STATS ===================== -->
 
-| Project | Description |
-| :-- | :-- |
-| **CampusHub** | A campus marketplace and freelance services platform, built with a teammate |
-| **LendIt** | An AI-powered hyperlocal rental and local services marketplace |
-| **Day One** | A personal study tracker for subjects, marks, streaks, and study plans |
-| **My World** | A playable 3D portfolio set in a realistic neighbourhood (in progress) |
-| **Blood Bank** | A Java OOP system for managing donors, blood requests, and inventory |
-
----
-
-## 🏆 Highlights
-
-- 📚 Completed coursework in Data Structures, DBMS, and OOP in Java
-- 🧩 Solving problems on LeetCode and HackerRank
-- 🤝 Looking for collaborators on AI/ML and web projects
-
----
-
-## GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cse-afsal&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse-afsal&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cse-afsal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=cse-afsal&theme=tokyonight&hide_border=true" />
-
-<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cse-afsal&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse-afsal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
+<img width="60%" src="https://streak-stats.demolab.com?user=cse-afsal&theme=tokyonight&hide_border=true" />
+
+</div>
+
 ---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cse-afsal&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:cse.afsal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/cse-afsal">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:cse.afxal@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/cse-afsal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Replace with your actual LinkedIn profile URL -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<p align="center"><i>Keep learning · Keep building · Keep growing</i></p>
+<div align="center">
+
+### 💻 Code. Learn. Build. Repeat.
+
+*Turning curiosity into code and ideas into reality.*
+
+<img src="https://img.shields.io/badge/Keep%20Learning-Keep%20Building-00C7B7?style=for-the-badge" />
+
+</div>
