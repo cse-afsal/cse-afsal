@@ -46,8 +46,7 @@
 </p>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=cse-afsal&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=cse-afsal&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" />
 ### 📊 GitHub Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cse-afsal&theme=github_dark" width="80%" />
 
