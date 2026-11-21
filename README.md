@@ -11,7 +11,7 @@
 
 ### 🎯 Current Focus
 - Data Structures & Algorithms with Python
-- IOT Projects - Based On Robotics
+- AI based Projects 
 - Project Development in Python with AI
 - Firebase For App Development
 
@@ -69,7 +69,7 @@
 <td width="52%" valign="top">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Embedded+Systems+%26+Electronics;IOT+%7C+Programming+%7C+DSA;Building+Real+Hardware+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Fronted+Devlopment+%26+Computer+Science;ML+%7C+Programming+%7C+DSA;Developing+Frontend+Softwares" />
 </p>
 
 <p align="center">
