@@ -1,201 +1,119 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# Hi there, I'm Afsal S 👋
-
-### Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Real+Products;Full+Stack+Web+Developer;Exploring+Artificial+Intelligence;Learning+DSA+%26+Problem+Solving;Always+Building%2C+Always+Learning" alt="Typing SVG" />
-</p>
-
-<p>
-  <a href="https://github.com/cse-afsal">
-    <img src="https://komarev.com/ghpvc/?username=cse-afsal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/cse-afsal?tab=followers">
-    <img src="https://img.shields.io/github/followers/cse-afsal?label=Followers&style=for-the-badge&color=236ad3" alt="Followers"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20To-Collaborations-2ea44f?style=for-the-badge" alt="Open to collaborations"/>
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=L%20S%20HARI%20PRASAD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%205x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
 
 </div>
 
----
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="48%" valign="top">
 
-<!-- ===================== ABOUT ME ===================== -->
+### 🎯 Current Focus
+- Data Structures & Algorithms with Python
+- IOT Projects - Based On Robotics
+- Project Development in Python with AI
+- Firebase For App Development
 
-## 👨‍💻 About Me
-
-I'm a **second-year Computer Science Engineering student** passionate about building software, exploring AI, and solving real-world problems through technology.
-
-I enjoy experimenting with new technologies, developing projects, and continuously improving my engineering fundamentals.
-
-- 🎓 Second-year Computer Science Engineering student.
-- 💻 Interested in Full Stack Development and Software Engineering.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🐍 Learning Python, Django, React, and Backend Development.
-- 🧠 Practicing Data Structures & Algorithms.
-- 🚀 Building projects and turning ideas into products.
-- 🤝 Interested in open-source contributions and collaborations.
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
+### 🛠 Tech Languages Use:
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=FFFFFF" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40"/>
 </p>
 
-### Frontend Development
-
+### 🧰 IDEs & Tools Use:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=12B886" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+<img src="https://www.svgrepo.com/show/374065/scilab.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
+<img src="https://img.shields.io/badge/EEZ_Studio-EDA-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/LTspice-EDA-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/puTTY-EDA-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/WinSCP-EDA-red?style=flat-square"/>
 </p>
 
-### Backend Development
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=cse-afsal&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" />
-</p>
+### 📊 GitHub Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cse-afsal&theme=github_dark" width="80%" />
 
-### Database & Tools
+<table width="95%">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cse-afsal&theme=github_dark" width="80%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cse-afsal&theme=github_dark" width="80%" />
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,figma&theme=dark" />
-</p>
+</td>
 
----
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## 🎯 What I'm Currently Working On
-
-| Focus Area | Current Goals |
-|:---|:---|
-| 💻 Full Stack Development | Building applications with React, Node.js and Django |
-| 🤖 Artificial Intelligence | Exploring ML and AI-powered applications |
-| 🧠 Data Structures & Algorithms | Improving problem-solving skills through LeetCode |
-| ⚙️ Backend Engineering | Learning API development and database management |
-| 🎨 UI/UX Design | Creating clean and user-friendly interfaces |
-| ☁️ Deployment | Exploring cloud technologies and deployment |
-
----
-
-<!-- ===================== PROJECTS ===================== -->
-
-## 🚀 Featured Project
-
-### 🤖 AI Mock Interview Platform
-
-An AI-powered interview preparation platform designed to help candidates improve their interview skills.
-
-**Key Features:**
-- 📄 Resume-based interview question generation.
-- 💬 AI-powered feedback and evaluation.
-- 🎥 Video interview support.
-- 📝 Resume builder.
-- 📊 Interview performance analytics.
-
----
-
-## 💡 Areas of Interest
+<td width="52%" valign="top">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-239120?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logo=github" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Embedded+Systems+%26+Electronics;IOT+%7C+Programming+%7C+DSA;Building+Real+Hardware+Systems" />
 </p>
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=cse-afsal&color=FFD700&style=for-the-badge&label=Profile+Views" />
+</p>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cse-afsal&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
+</p>
 
-<!-- ================= GITHUB STATISTICS ================= -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cse-afsal&theme=highcontrast&hide_border=true" width="90%"/>
+</p>
 
-## 📊 GitHub Statistics
+### 📜 LeetCode
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
+- 💻 Languages Used: Python
 
-<div align="center">
+<p>
+<img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
+</p>
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/cse-afsal/cse-afsal/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<br/>
+### 🧠 Core Principles
+- 🔁 Consistency over perfection
+- 🧱 Discipline over motivation
+- ⚙️ Execution over noise
+- 🏆 Results over words
 
-<img src="https://streak-stats.demolab.com?user=cse-afsal&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION ACTIVITY ================= -->
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="./profile/contribution-snake.svg" width="100%" />
-</picture>
-
-<br/>
-
-<a href="https://github.com/cse-afsal?tab=overview#contribution-activity">
-  View My GitHub Contribution Calendar →
-</a>
-
-</div>
-
----
----
-
-## 📈 Contribution Activity
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cse-afsal&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<p style="text-align:center; font-size:18px; font-style:italic;">
+🧘 “Every sleepless night is an investment in a future others won’t reach.” — Dev
+</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
----
-
-<!-- ===================== CONNECT ===================== -->
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:cse.afxal@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/cse-afsal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Replace with your actual LinkedIn profile URL -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Code. Learn. Build. Repeat.
-
-*Turning curiosity into code and ideas into reality.*
-
-<img src="https://img.shields.io/badge/Keep%20Learning-Keep%20Building-00C7B7?style=for-the-badge" />
+<p style="text-align:center; font-weight:bold; font-size:16px;">
+⭐ If you like what I do, consider giving my repos a star! ⭐
+</p>
 
 </div>
