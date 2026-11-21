@@ -85,11 +85,11 @@
 </p>
 
 ### 📜 LeetCode
-- 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
-- 💻 Languages Used: Python
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/CSEAFSAL/)
+- 💻 Languages Used: Python & C
 
 <p>
-<img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
+<img src="https://leetcard.jacoblin.cool/CSEAFSAL?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/cse-afsal/cse-afsal/output/github-contribution-grid-snake-dark.svg" width="100%"/>
